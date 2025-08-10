@@ -1,6 +1,3 @@
-# arduino2.x_appimage-desktop-entry
-Generate desktop entry and icon for AppImage on Ubuntu 24+, with Electron sandbox disabled for compatibility.
-
 # AppImage .desktop 생성 스크립트 사용 안내
 
 ## 실행 방법
@@ -10,7 +7,7 @@ Generate desktop entry and icon for AppImage on Ubuntu 24+, with Electron sandbo
 터미널에서 아래 명령어를 입력하세요. (스크립트 파일명이 `appimage-desktop-entry.sh`라고 가정)
 
 ```bash
-chmod +x appimage-desktop-entry.sh
+chmod +x appimage-desktop-entry.sh```
 
 ### 2. 스크립트 실행
 
