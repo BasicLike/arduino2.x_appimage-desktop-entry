@@ -1,5 +1,12 @@
 # AppImage .desktop 생성 스크립트 사용 안내
 
+### 0. 스크립트 다운
+
+```bash
+wget https://raw.githubusercontent.com/un1t/appimage-desktop-entry/refs/heads/master/appimage-desktop-entry.sh
+```
+
+
 ### 1. 스크립트에 실행 권한 부여
 
 터미널에서 아래 명령어를 입력하세요. (스크립트 파일명이 `appimage-desktop-entry.sh`라고 가정)
