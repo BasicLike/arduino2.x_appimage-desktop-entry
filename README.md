@@ -7,13 +7,15 @@
 터미널에서 아래 명령어를 입력하세요. (스크립트 파일명이 `appimage-desktop-entry.sh`라고 가정)
 
 ```bash
-chmod +x appimage-desktop-entry.sh```
+chmod +x appimage-desktop-entry.sh
+```
 
 ### 2. 스크립트 실행
 
 2.1 실행
 ```bash
 ./appimage-desktop-entry.sh ~/Downloads/arduino-ide_2.3.6_Linux_64bit.AppImage
+```
 실행하면 AppImage 내부에서 사용할 아이콘 목록이 표시되고, 선택할 번호를 입력합니다. 기본값은 1번입니다.
 
 2.2 아이콘 선택
@@ -26,3 +28,4 @@ chmod +x appimage-desktop-entry.sh```
 
 ```bash
 ./appimage-desktop-entry.sh ~/Downloads/arduino-ide_2.3.6_Linux_64bit.AppImage --remove
+```
