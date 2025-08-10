@@ -1,4 +1,10 @@
-# AppImage .desktop 생성 스크립트 사용 안내
+# AppImage.desktop 생성 스크립트 사용 안내
+
+- 이 스크립트는 Arduino 2.x AppImage에서 아이콘을 추출하고  `.desktop` 파일을 생성하여 우분투 24 이상 시스템 메뉴에서 쉽게 실행할 수 있도록 합니다.  
+- Electron 샌드박스 문제 해결을 위해 자동으로 `ELECTRON_DISABLE_SANDBOX=1` 환경변수를 추가합니다.
+- ELECTRON_DISABLE_SANDBOX=1 옵션은 샌드박스 격리 기능을 꺼서 보안이 약화될 수 있으니 신뢰할 수 있는 AppImage에만 사용하세요.
+
+## 사용법
 
 ### 0. 스크립트 다운
 
