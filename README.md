@@ -11,7 +11,7 @@
 ## 0. 스크립트 다운
 
 ```bash
-wget https://github.com/BasicLike/arduino2.x_appimage-desktop-entry/blob/main/appimage-desktop-entry.sh
+wget https://raw.githubusercontent.com/BasicLike/arduino2.x_appimage-desktop-entry/refs/heads/main/nosandbox-appimage-desktop-entry.sh
 ```
 
 
