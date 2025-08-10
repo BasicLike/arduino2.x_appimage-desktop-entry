@@ -3,7 +3,7 @@
 ### 0. 스크립트 다운
 
 ```bash
-wget https://raw.githubusercontent.com/un1t/appimage-desktop-entry/refs/heads/master/appimage-desktop-entry.sh
+wget https://github.com/BasicLike/arduino2.x_appimage-desktop-entry/blob/main/appimage-desktop-entry.sh
 ```
 
 
