@@ -19,7 +19,7 @@ wget https://raw.githubusercontent.com/BasicLike/arduino2.x_appimage-desktop-ent
 ## 1. 스크립트에 실행 권한 부여
 
 ```bash
-chmod +x appimage-desktop-entry.sh
+chmod +x nosandbox-appimage-desktop-entry.sh
 ```
 
 
@@ -30,7 +30,7 @@ chmod +x appimage-desktop-entry.sh
 실행하면 AppImage 내부에서 사용할 아이콘 목록이 표시되고, 선택할 번호를 입력하고 엔터를 입력해주세요. 기본값은 1번입니다.
 
 ```bash
-./appimage-desktop-entry.sh ~/Downloads/arduino-ide_2.3.6_Linux_64bit.AppImage
+./nosandbox-appimage-desktop-entry.sh ~/Downloads/arduino-ide_2.3.6_Linux_64bit.AppImage
 ```
 
 
